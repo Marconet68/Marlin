@@ -7,6 +7,7 @@
 - BL Touch
 
 Note: Change Extruder temperature sensor input due to mother board problem.
+- see: pins_BTT_SKR_V1_4.h
 
 
 
