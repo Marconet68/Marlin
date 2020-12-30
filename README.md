@@ -1,3 +1,15 @@
+# Fork from marlin on  30 12 2020
+
+- Used for Bearnet (Anet A8 with bearnet upgrade)
+- Mother board: BTT skr v1.4: [BTT SKR v1.4](https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3/tree/master/BTT%20SKR%20V1.4/)
+- step driver TMC2130 SPI [BTT TMC 2130 SPI](https://github.com/bigtreetech/BIGTREETECH-TMC2130-V3.0)
+- 12V power supply
+- BL Touch
+
+Note: Change Extruder temperature sensor input due to mother board problem.
+
+
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
